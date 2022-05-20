@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibnuubaedi
 - 👀 I’m interested in front end developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on front end development
 - 📫 How to reach me email ubaediibnu@gmail.com
 
