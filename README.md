@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibnuubaedi
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on Front End Development
+- 👀 I’m interested Web Development
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me email ubaediibnu@gmail.com
 
 <!---
