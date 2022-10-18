@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibnuubaedi
-- 👀 I’m interested Web Development
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested Back-End Development
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me email ibnuubaedi28@gmail.com
 
